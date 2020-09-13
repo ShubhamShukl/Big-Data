@@ -1,2 +1,4 @@
 # Big Data 
-Big-data programming repository (Prepared by Coursera)
+Big-data programming repository.
+
+Credit: Coursera
